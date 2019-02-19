@@ -1,0 +1,5 @@
+﻿  Skipping... (no relevant changes detected)
+  stdafx.cpp
+  Programmania.cpp
+c:\users\kbatu\source\repos\programmania\programmania\programmania.cpp(866): warning C4129: '[': unrecognized character escape sequence
+  Programmania.vcxproj -> C:\Users\kbatu\source\repos\Programmania\Debug\Programmania.exe
